@@ -1,0 +1,53 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.semi": true,
+  "editor.fontFamily": "'Operator Mono'",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": 400,
+  "terminal.integrated.fontFamily": "Fira Code",
+  "editor.fontSize": 18,
+  "editor.lineHeight": 32,
+  "editor.letterSpacing": 0.5,
+  "workbench.fontAliasing": "auto",
+  "explorer.openEditors.visible": 1,
+  "workbench.editor.enablePreview": false,
+  "editor.snippetSuggestions": "top",
+  "editor.tabCompletion": "on",
+  "editor.quickSuggestionsDelay": 30,
+  "terminal.integrated.macOptionIsMeta": true,
+  "editor.renderWhitespace": "all",
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[nunjucks]": {},
+
+  "editor.tabSize": 2,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Cobalt2",
+  "files.associations": {
+    "*.njk": "njk",
+    "*.js": "javascriptreact"
+  },
+  "explorer.compactFolders": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.startupEditor": "newUntitledFile",
+  "vsicons.dontShowNewVersionMessage": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
